@@ -21,6 +21,6 @@ Ben Gurion University "Machine Learning (372.2.5214)" course assignments &amp; s
   In this assignment, I focused on classifying clinical trial data. Key aspects of the assignment included:
 
   1. **Data Preparation**: Preprocessing clinical trial data, including handling missing values and encoding categorical features.
-  2. **Modeling**: Implementing and evaluating various classification models such as Logistic Regression, Random Forest, and Gradient Boosting.
+  2. **Modeling**: Implementing and evaluating various classification models such as Logistic Regression, SVM, Adaboost and Random Forest.
   3. **Evaluation**: Assessing model performance using metrics like accuracy, precision, recall, F1-score, and ROC-AUC. This involved tuning hyperparameters to improve the classification results.
   4. **Visualization**: Creating visualizations to understand model predictions and feature importance, helping to interpret the results and provide insights into the clinical trial data.
