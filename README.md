@@ -2,6 +2,7 @@
 Ben Gurion University "Machine Learning (372.2.5214)" course assignments &amp; solutions
 
 - Assignment & solution 1 (Naive Bayes) - [Notebook](EX1_NB.ipynb)
+- 
     In this assignment, I implemented and applied Naive Bayes models to two distinct tasks:
   
     1. **Classifying Digits using Bernoulli Naive Bayes:** Applied the Bernoulli Naive Bayes algorithm to the MNIST dataset, aiming to classify digits (0-9).
